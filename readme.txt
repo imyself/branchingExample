@@ -5,3 +5,5 @@ As for cost, we selected initial values based upon data from the Open Beta and o
 We appreciate the candid feedback, and the passion the community has put forth around the current topics here on Reddit, our forums and across numerous social media outlets.
 
 Our team will continue to make changes and monitor community feedback and update everyone as soon and as often as we can.
+
+hello this is new text from class.
