@@ -1,4 +1,4 @@
 void main() {
-	int x = 10;
+	int x = 2000;
 	x = x + 1;
 }
